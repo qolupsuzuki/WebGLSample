@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/LevelSelectScene01.unity
+    guid: fdc97a93d42b5c247ab49a3bde977229
+  - enabled: 1
+    path: Assets/Scenes/LevelSelectScene02.unity
+    guid: 98943d20ba5380d4ea0022fe1ff826d4
+  - enabled: 1
+    path: Assets/Scenes/SampleScene01.unity
+    guid: 7649d9828c635f24f8158393325440ca
+  - enabled: 0
+    path: Assets/Scenes/SampleScene02.unity
+    guid: 6fb265a03ba69ef459a3b0f00af5d2ba
+  - enabled: 1
+    path: Assets/Scenes/Level01Scene.unity
+    guid: b05cb961b9cde7745b40869ff32d82ac
+  - enabled: 1
+    path: Assets/Scenes/Level02Scene.unity
+    guid: 6a83648ffe78b4d4aa95a1db742da5d7
+  - enabled: 1
+    path: Assets/Scenes/HintQ1Scene.unity
+    guid: 6d5b41bbfeecd7b44a318c6faf985a95
+  - enabled: 1
+    path: Assets/Scenes/Q1SeikaiScene.unity
+    guid: a7f9ab9f1ec5e234e9077d77b08add60
+  - enabled: 1
+    path: Assets/Scenes/Q1ZannenScene.unity
+    guid: 0fe80ef8028e1f34bacd9d76e9396ec0
+  - enabled: 1
+    path: Assets/Scenes/Level02_Q2_Scene.unity
+    guid: 9d0e00818516447479574e355e723611
+  m_configObjects: {}
